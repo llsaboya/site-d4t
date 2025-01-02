@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: 'GTM-NWXBWHP' 
+      provider: "google", tagId: "GTM-NWXBWHP" 
     },
     locale: "pt-BR",
     baseUrl: "d4t.dev",
