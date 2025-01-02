@@ -1,0 +1,6 @@
+---
+title: Six Sigma
+tags:
+  - 💡
+---
+
