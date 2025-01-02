@@ -51,7 +51,7 @@ A diferença entre análise de conteúdo e análise de tarefas reside no seu foc
 
 ## Mapeamento de Lições Baseado em Desempenho
 
-[![Assista ao vídeo](https://img.youtube.com/vi/TFzFEQGExQI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TFzFEQGExQI)
+![](https://www.youtube.com/watch?v=TFzFEQGExQI)
 
 Guy Wallace originalmente formulou o mapeamento de lições baseado em desempenho para um projeto de cliente em 1990. O conceito se baseia em dois princípios-chave: 
 

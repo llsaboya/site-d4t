@@ -19,7 +19,7 @@ Talvez você tenha até mesmo usado esse rótulo para justificar por que certas 
 
 Prepare-se para questionar tudo o que você pensava saber sobre como as pessoas aprendem de maneira mais eficaz, pois a verdade é que **estilos de aprendizagem não existem**.
 
-[![Assista ao vídeo](https://img.youtube.com/vi/vr3hL5XjnCA/maxresdefault.jpg)](https://www.youtube.com/watch?v=vr3hL5XjnCA)
+![](https://www.youtube.com/watch?v=vr3hL5XjnCA)
 
 ## Desmascarando o Mito dos Estilos de Aprendizagem
 
@@ -56,7 +56,7 @@ No final das contas, a coisa mais importante para o aprendizado não é a maneir
 > - **Aprendizagem baseada em significado**: A maioria do que os professores querem que os alunos aprendam não é informação visual, auditiva ou cinestésica, mas sim baseada em significado.
 > - **Previsões incorretas**: A teoria prevê que os alunos aprenderão melhor se o material for apresentado de acordo com seu estilo de aprendizagem, mas isso não é verdade em todos os casos.
 
-[![Assista ao vídeo](https://img.youtube.com/vi/rhgwIhB58PA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rhgwIhB58PA)
+![](https://www.youtube.com/watch?v=rhgwIhB58PA)
 
 ## Os Perigos Ocultos dos Estilos de Aprendizagem
 
@@ -90,7 +90,7 @@ O estudo mais recente (Sun, 2023) examina como a crença nos estilos de aprendiz
 
 Combater esse mito é essencial para promover oportunidades educacionais mais equitativas e desafiadoras para todos os alunos.
 
-[![Assista ao vídeo](/_uploads/estilos-de-aprendizagem-da-voltas.png)](https://www.youtube.com/watch?v=h20Z-IXLM9w)
+![](https://www.youtube.com/watch?v=h20Z-IXLM9w)
 
 Em vez de se concentrar em estilos de aprendizagem, os educadores devem adotar uma abordagem mais ampla, utilizando uma variedade de estratégias de ensino que atendam às diferentes necessidades dos alunos e do conteúdo. 
 

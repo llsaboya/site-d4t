@@ -7,7 +7,7 @@ tags:
 ---
 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/XXXXXXXX/maxresdefault.jpg)](https://www.youtube.com/watch?v=XXXXXXXXX)
+![](https://www.youtube.com/watch?v=XXXXXXXXX)
 
 
 Resumo

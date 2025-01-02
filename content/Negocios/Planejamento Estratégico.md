@@ -3,7 +3,7 @@ title: "Planejamento Estratégico: Seu Plano Não É Estratégia"
 description: A estratégia é um conjunto de escolhas integradas para a empresa ganhar em um segmento - o planejamento é um conjunto de atividades, mas sem coerência interna.
 tags: []
 ---
-[![Assista ao vídeo](https://img.youtube.com/vi/iuYlGRnC7J8/maxresdefault.jpg)](https://www.youtube.com/watch?v=iuYlGRnC7J8)
+![](https://www.youtube.com/watch?v=iuYlGRnC7J8)
 
 As organizações frequentemente confundem planejamento e estratégia, criando um equívoco fundamental que impacta o sucesso empresarial. O termo "planejamento estratégico" surgiu como uma tentativa de unir estas abordagens distintas, mas esta combinação enfraquece o valor e o propósito único de cada conceito. Para entender por que isso é importante, precisamos examinar as diferenças essenciais entre planejamento e estratégia, e como sua fusão inadequada leva as organizações ao erro.
 

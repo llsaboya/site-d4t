@@ -9,10 +9,23 @@ draft: true
 date: 2024-12-11
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-*Design*<sup>4</sup>**Thinking**
+*Design*<sup>4</sup>**Thinking** 
+
+Para sincronizar: 
+
+
+```bash
+npx quartz sync --no-pull
+```
+
+Para Preview:
+
+
+```bash
+npx quartz build --serve
+```
+
 
 
 # Título 1
@@ -37,6 +50,9 @@ Texto <sub>para empresas</sub>
 
 ```
 [![Assista ao vídeo](https://img.youtube.com/vi/A_iZfOfUTRk/maxresdefault.jpg)](https://www.youtube.com/watch?v=A_iZfOfUTRk)
+
+![](https://www.youtube.com/watch?v=A_iZfOfUTRk)
+
 ```
 
 

@@ -5,7 +5,7 @@ tags:
   - Design Instrucional
 lastmod: 2023-04-20T00:23:32.877Z
 ---
-[![Assista ao vídeo](https://img.youtube.com/vi/XGi7qCkU8ng/maxresdefault.jpg)](https://www.youtube.com/watch?v=XGi7qCkU8ng)
+![](https://www.youtube.com/watch?v=XGi7qCkU8ng)
 
 O termo "Modelo ADDIE" tornou-se onipresente em discussões profissionais, descrições de cargo e redes sociais. Esta caracterização incorreta revela um erro crasso que pode impactar significativamente os resultados da aprendizagem. Para entender por que esta distinção importa, precisamos examinar tanto o fundamento teórico quanto as implicações práticas de tratar o ADDIE como um modelo em vez do framework que ele realmente é.
 

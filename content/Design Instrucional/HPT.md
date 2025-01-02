@@ -15,7 +15,7 @@ Um guia abrangente que explora os princípios, metodologias e aplicações da Te
 > - O artigo conclui destacando a importância de uma abordagem sistemática e baseada em evidências para a melhoria do desempenho, e a necessidade de uma análise profunda para identificar as causas raiz dos problemas e implementar soluções eficazes.
 > - Ou apenas assista ao vídeo...
 
-[![Assista ao vídeo](https://img.youtube.com/vi/A_iZfOfUTRk/maxresdefault.jpg)](https://www.youtube.com/watch?v=A_iZfOfUTRk)
+![](https://www.youtube.com/watch?v=A_iZfOfUTRk)
 
 ## I. O que é Tecnologia de Desempenho Humano (HPT)? 
 

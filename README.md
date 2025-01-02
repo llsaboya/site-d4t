@@ -1,18 +1,7 @@
-# Quartz v4
+# D4T
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+O *Design*<sup>4</sup>**Thinking** é um ambiente digital que integra teoria e prática para desenvolver soluções educacionais baseadas em evidências. Nossa abordagem única combina os princípios fundamentais de Louis Raths sobre pensamento crítico com as metodologias comprovadas de Robert Mager e Robert Gagné para criar experiências de aprendizagem que transformam comportamento e performance.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+https://d4t.dev/

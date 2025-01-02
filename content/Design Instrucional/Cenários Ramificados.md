@@ -6,7 +6,7 @@ description: Como os Cenários Ramificados e o Design Instrucional podem Impulsi
 
 ---
 
-[![Assista ao vídeo](https://img.youtube.com/vi/YHFy_ejezkQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=YHFy_ejezkQ)
+![](https://www.youtube.com/watch?v=YHFy_ejezkQ)
 
 Os Cenários Ramificados são uma das mais eficientes e inovadoras formas de desenvolvimento de equipe, tendo surgido como livros-jogos desde 1930, com o romance interativo "_Considere as Consequências!"_, escrito por Doris Webster e Mary Alden Hopkins.
 

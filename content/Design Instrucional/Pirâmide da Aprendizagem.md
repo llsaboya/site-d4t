@@ -25,7 +25,7 @@ A pirâmide de aprendizagem tem suas raízes em um estudo realizado na década d
 >
 >Os autores Kåre Letrud e Sigbjørn Hernes investigaram a história da "pirâmide de aprendizagem" e descobriram que a hierarquia proposta não possui evidências concretas que a sustentem. Na verdade, a hierarquia parece ter se originado de uma série de interpretações imprecisas de estudos de pesquisa antigos.
 
-[![Assista ao vídeo](https://img.youtube.com/vi/P5NYKJ_bpU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=P5NYKJ_bpU4)
+![](https://www.youtube.com/watch?v=P5NYKJ_bpU4)
 
 ## A pirâmide de aprendizagem como generalização simplista
 

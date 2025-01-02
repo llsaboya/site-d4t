@@ -8,7 +8,7 @@ slug: 5-areas-design-instrucional
 date: 2025-01-01
 image: /uploads/post/di-o-que-e-1.png
 ---
-[![Assista ao vídeo](https://img.youtube.com/vi/hIVNzXS0qVA/maxresdefault.jpg)](https://www.youtube.com/watch?v=hIVNzXS0qVA)
+![](https://www.youtube.com/watch?v=hIVNzXS0qVA)
 
 O Design Instrucional (DI) é um campo que confunde muitos, tanto aqueles de dentro quanto de fora da área. Em sua essência, o DI é o processo de criar experiências de aprendizagem eficazes e envolventes. Envolve entender como as pessoas aprendem, definir metas de aprendizagem, e projetar conteúdo e atividades que ajudem os alunos a alcançar esses objetivos. 
 

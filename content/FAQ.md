@@ -4,7 +4,6 @@ description: Exemplo
 permalink: 
 aliases: 
 tags:
-  - ✅
 draft: false
 date: 2024-12-11
 ---

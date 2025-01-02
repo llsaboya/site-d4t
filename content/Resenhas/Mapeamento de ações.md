@@ -8,7 +8,9 @@ description: O Action Mapping é um método inovador que combina a análise de n
   design instrucional para criar soluções de treinamento personalizadas e
   eficazes.
 ---
-[![Assista ao vídeo](https://img.youtube.com/vi/tVHG6iKbmoY/maxresdefault.jpg)](https://www.youtube.com/watch?v=tVHG6iKbmoY)
+![](https://www.youtube.com/watch?v=tVHG6iKbmoY)
+
+ 
 
 O [mapeamento de ações](https://www.amazon.com.br/gp/product/B075RDL1SJ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) é uma abordagem prática e direta para a desenvolvimento empresarial que tem como objetivo alcançar resultados de negócios, ajudando as pessoas a fazerem o que precisam fazer. Diferentemente do **design instrucional** tradicional, que se concentra na apresentação de informações e no processo de aprendizagem, o mapeamento de ações tem como foco a **performance**. O objetivo é identificar o que as pessoas precisam fazer para alcançar uma meta específica de negócios e, em seguida, criar um mapa de ações para ajudá-las a fazer isso.
 
