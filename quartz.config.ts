@@ -11,10 +11,8 @@ const config: QuartzConfig = {
     pageTitle: "🗃️ D4T.dev",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "google", tagId: "GTM-NWXBWHP" 
-    },
+    enablePopovers: false,
+    analytics: { provider: 'clarity', projectId: 'cnrkgmtike' },
     locale: "pt-BR",
     baseUrl: "d4t.dev",
     ignorePatterns: ["private", "templates", "Excalidraw", ".obsidian"],

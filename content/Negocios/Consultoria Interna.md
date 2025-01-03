@@ -311,7 +311,7 @@ O estabelecimento da visão futura é um processo complexo e multifacetado, que 
 | Compreensão Profunda da Organização | Envolver-se com a organização em todos os níveis para entender seus objetivos, valores e desafios. | Entrevistas, questionários, observação direta, análise SWOT |
 | Articulação da Visão | Criar uma declaração de visão clara, concisa e convincente que reflita os objetivos e valores da organização. | Oficinas de brainstorming, sessões de redação colaborativa |
 | Comunicação da Visão | Comunicar a visão a todos na organização de forma consistente e através de múltiplos canais. | Reuniões de equipe, boletins informativos, e-mails, apresentações |
-| Estabelecimento de Metas e Planos de Ação | Definir metas claras e mensuráveis e planos de ação para alcançá-las. | Planejamento estratégico, gestão de projetos, técnicas SMART para estabelecer metas |
+| Estabelecimento de Metas e Planos de Ação | Definir metas claras e mensuráveis e planos de ação para alcançá-las. | Planejamento estratégico, gestão de projetos, técnicas para estabelecer metas |
 | Suporte Contínuo | Fornecer coaching, facilitação e feedback para ajudar a organização a superar obstáculos e alcançar sua visão. | Coaching, mediação, técnicas de feedback construtivo |
 
 ## **VII. Conclusão**
@@ -328,7 +328,7 @@ Para ajudar você a começar, aqui está um plano de ação inicial:
 |--------|-------------|----------------------|
 | Compreensão do Contexto Organizacional | Avalie a situação atual da organização, identifique os desafios e compreenda a estrutura e a cultura existentes | Entrevistas, questionários, análise SWOT |
 | Articulação da Visão de Transformação | Estabeleça uma visão clara para a transformação organizacional, incluindo a reestruturação necessária e a cultura desejada | Brainstorming, planejamento estratégico |
-| Desenvolvimento de um Plano de Ação | Elabore um plano detalhado para alcançar a visão, incluindo metas específicas, responsabilidades e prazos | Técnicas SMART para estabelecer metas, gestão de projetos |
+| Desenvolvimento de um Plano de Ação | Elabore um plano detalhado para alcançar a visão, incluindo metas específicas, responsabilidades e prazos | Técnicas  para estabelecer metas, gestão de projetos |
 | Implementação | Implemente o plano, monitorando o progresso e fazendo ajustes conforme necessário | Técnicas de gerenciamento de mudanças, ferramentas de monitoramento e avaliação |
 | Avaliação e Ajustes Contínuos | Avalie regularmente o progresso, aprenda com as experiências e faça ajustes conforme necessário | Avaliações de progresso, feedback 360 graus, aprendizado organizacional |
 

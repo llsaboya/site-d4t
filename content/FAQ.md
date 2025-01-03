@@ -136,7 +136,7 @@ Cansado de lidar com consultorias caras, que fazem apenas apresentações de _s
 > A análise de dados ocorre em três níveis - descritivo (padrões atuais), diagnóstico (causas raiz) e preditivo (projeções de impacto). Utilizamos técnicas estatísticas apropriadas para cada nível, desde análises descritivas básicas até modelagem preditiva, quando apropriado. As decisões são baseadas na triangulação de múltiplas fontes de dados.
 
 > [!abstract]- Como são desenvolvidos os indicadores de performance?
-> Os indicadores seguem o framework SMART e são desenvolvidos em três categorias - leading indicators (preditivos), current indicators (simultâneos) e lagging indicators (resultantes). Cada indicador é validado quanto a sua confiabilidade, validade e praticidade de mensuração no contexto específico.
+> Os indicadores seguem os frameworks e são desenvolvidos em três categorias - leading indicators (preditivos), current indicators (simultâneos) e lagging indicators (resultantes). Cada indicador é validado quanto a sua confiabilidade, validade e praticidade de mensuração no contexto específico.
 
 > [!abstract]- Qual é a abordagem para sustentabilidade dos resultados?
 > A sustentabilidade é construída através de três mecanismos - sistemas de suporte à performance, processos de feedback contínuo e desenvolvimento de capacidade interna. O design inclui elementos específicos para cada mecanismo, garantindo que as melhorias de performance sejam mantidas ao longo do tempo.
