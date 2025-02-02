@@ -3,6 +3,7 @@ import { Translation } from "./definition"
 export default {
   propertyDefaults: {
     title: "Sem título",
+    logo: "Sem título",
     description: "Sem descrição",
   },
   components: {

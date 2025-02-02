@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.RecentNotes()),
   ],
   left: [
-    Component.PageTitle(),
+    Component.PageLogo(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer({
@@ -86,7 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    Component.PageLogo(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer({

@@ -9,6 +9,8 @@ draft: true
 date: 2024-12-11
 ---
 
+<img src="./banner.svg" width="701" height="183">
+
 
 *Design*<sup>4</sup>**Thinking** 
 

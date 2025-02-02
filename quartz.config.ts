@@ -8,8 +8,9 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🗃️ D4T.dev",
+    pageTitle: "Design For Thinking",
     pageTitleSuffix: "",
+    pageLogo: "logo-d4t.svg",
     enableSPA: true,
     enablePopovers: false,
     analytics: { provider: 'clarity', projectId: 'cnrkgmtike' },

@@ -2,8 +2,6 @@
 title: Home
 description: "Domine a Arte de Pensar, Não Apenas de Treinar"
 ---
-<img src="./banner.svg" width="701" height="183">
-
 ## Aprendizagem organizacional não falha por falta de conteúdo. Falha na implementação.
 ### Transformamos conhecimento em resultados práticos, mostrando exatamente como fazer a implementação acontecer.
 
@@ -11,7 +9,7 @@ O *Design*<sup>4</sup>**Thinking** ajuda equipes técnicas e executivos a implem
 
 |                                     |                                                                                                                                                                                                                                                              |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Para estudantes e profissionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento disperso em diferentes fontes. [Começe por aqui](Para-Profissionais)        |
+| **Para designers instrucionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento disperso em diferentes fontes. [Começe por aqui](Para-Profissionais)        |
 | **Para empresas**                   | O *Design*<sup>4</sup>**Thinking** cria soluções que integram o desenvolvimento do pensamento crítico com objetivos claros de performance, oferecendo desde turmas customizadas até programas completos. Descubra [o que podemos fazer](Para-Profissionais). |
 
 Para organizações interessadas em elevar o nível de seus treinamentos, trazemos uma metodologia que vai além do design instrucional tradicional. 
@@ -19,6 +17,8 @@ Para organizações interessadas em elevar o nível de seus treinamentos, trazem
 Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019
 
 [Agende uma conversa →](Contato) para discutir seu desafio específico.
+
+
 ## A verdade incômoda sobre aprendizagem organizacional
 
 >[!warning] Em 5 anos analisando iniciativas de aprendizagem:
@@ -119,6 +119,8 @@ Se você:
 Podemos ajudar.
 
 [Agende uma conversa →](Contato) para discutir seu desafio específico.
+
+<img src="./banner.svg" >
 
 >[!info] Sobre o site.
 >

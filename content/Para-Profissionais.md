@@ -1,9 +1,7 @@
 ---
-title: Para Profissionais
+title: Para Designers Instrucionais
 description: Domine a Arte de Pensar, Não Apenas de Treinar
 ---
-<img src="./banner.svg" width="701" height="183">
-
 🎯 [[A - Começando com D4T|A - Começando com D4T]]: Domine a Arte de Pensar, Não Apenas de Treinar. Comece por aqui.
 
 | Seção                                                      | Descrição                                                                                                    | Relevância para Performance                            |

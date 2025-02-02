@@ -3,7 +3,6 @@ title: Para Empresas
 description: O que oferecemos para o cliente
 draft: false
 ---
-<img src="./banner.svg" width="701" height="183">
 # Transforme Planos de Aprendizagem em Resultados Reais
 
 Sua organização investiu em conteúdo, plataformas e estratégias de aprendizagem. Mesmo assim, os resultados continuam escapando. Você não está sozinho - 76% das organizações lutam não para encontrar conteúdo, mas para implementá-lo de forma eficaz.

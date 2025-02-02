@@ -29,9 +29,7 @@ WhatsApp é nossa forma preferida de primeiro contato porque[^1]:
 
 Nosso compromisso: Resposta em até 2 horas durante horário comercial.
 
-Iniciar conversa no WhatsApp ⤵️
-
-[![Fale Conosco](_uploads/Botões-42.svg)](https://wa.me/555135578245)
+[Agende uma conversa pelo Whatsapp →](https://wa.me/555135578245) para discutir seu desafio específico.
 
 [^1]: Direto para meu WhatsApp (sim, sou eu mesmo quem responde)
 
