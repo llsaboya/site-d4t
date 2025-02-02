@@ -16,7 +16,7 @@ Educação corporativa não é um novo conceito, muito pelo contrário. A Genera
 
 *Universidade corporativa* é um recurso estratégico da organização, que serve à missão da empresa e ao futuro da companhia. Do lado oposto existe o *setor de treinamento*, que serve (apenas) para ajudar os empregados a trabalharem melhor. Ou um ou outro, ter departamentos dentro da sua empresa não significa que aprendizagem e desenvolvimento é prioridade.
 
-Há muita confusão quando abordamos a aprendizagem profissional. É interesse da empresa ou do profissional buscar o desenvolvimento? Melhor investir em soluções internas ou buscar cursos externos? Como medir o retorno sobre o investimento (ROI) em aprendizado? Qual é a melhor abordagem?
+Há muita confusão quando abordamos a aprendizagem profissional. É interesse da empresa ou do profissional buscar o desenvolvimento? Melhor investir em soluções internas ou buscar cursos externos? Como medir o retorno sobre o investimento ([[ROI em T&D]]) em aprendizado? Qual é a melhor abordagem?
 
 De acordo com o **Baldrige Excellence Framework**, a aprendizagem só está incorporada na sua organização quando ela faz parte do trabalho diário, com foco em construir e compartilhar conhecimento em toda a sua organização. Além disso, ela resulta na resolução de problemas na origem e é reconhecida pelas oportunidades de trazer mudanças significantes e significativas, além de criar inovações.
 

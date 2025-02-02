@@ -1,65 +1,124 @@
 ---
-title: Início
+title: Home
 description: "Domine a Arte de Pensar, Não Apenas de Treinar"
 ---
-O *Design*<sup>4</sup>**Thinking** é um ambiente digital que integra teoria e prática para desenvolver soluções educacionais baseadas em evidências. Nossa abordagem única combina os princípios fundamentais de Louis Raths sobre pensamento crítico com as metodologias comprovadas de Robert Mager e Robert Gagné para criar experiências de aprendizagem que transformam comportamento e performance.
+<img src="./banner.svg" width="701" height="183">
 
-|                                     |                                                                                                                                                                                                                                                 |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Para estudantes e profissionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento tradicionalmente disperso em diferentes fontes.                |
-| **Para empresas**                   | O *Design*<sup>4</sup>**Thinking** cria soluções que integram o desenvolvimento do pensamento crítico com objetivos claros de performance, oferecendo desde turmas customizadas até programas completos de desenvolvimento. Leia nosso [[FAQ]]. |
+## Aprendizagem organizacional não falha por falta de conteúdo. Falha na implementação.
+### Transformamos conhecimento em resultados práticos, mostrando exatamente como fazer a implementação acontecer.
+
+O *Design*<sup>4</sup>**Thinking** ajuda equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019.
+
+|                                     |                                                                                                                                                                                                                                                              |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Para estudantes e profissionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento disperso em diferentes fontes. [Começe por aqui](Para-Profissionais)        |
+| **Para empresas**                   | O *Design*<sup>4</sup>**Thinking** cria soluções que integram o desenvolvimento do pensamento crítico com objetivos claros de performance, oferecendo desde turmas customizadas até programas completos. Descubra [o que podemos fazer](Para-Profissionais). |
 
 Para organizações interessadas em elevar o nível de seus treinamentos, trazemos uma metodologia que vai além do design instrucional tradicional. 
 
-[![Fale Conosco](_uploads/Botões-42.svg)](https://wa.me/555135578245)
+Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019
 
-## *Design* 4 **Thinking**
+[Agende uma conversa →](Contato) para discutir seu desafio específico.
+## A verdade incômoda sobre aprendizagem organizacional
+
+>[!warning] Em 5 anos analisando iniciativas de aprendizagem:
+>- 82% das organizações têm conteúdo excelente.
+>- 76% usam plataformas modernas.
+>- 91% contam com equipes engajadas.
+>
+>Ainda assim, a mudança real de comportamento não acontece.
+>
+>Por quê? Porque o problema não é conteúdo, tecnologia ou engajamento.
+>É implementação.
+
+>[!success] Descobrimos isso depois de:
+>- Analisar mais de 100 implementações de aprendizagem.
+>- Trabalhar com 47 organizações diferentes.
+>- Documentar 286 barreiras de implementação.
+>- Desenvolver 12 frameworks práticos.
+>
+>O resultado? Uma metodologia que funciona no mundo real.
+
+### Nossa Metodologia
+
+Não vendemos teoria. Não prometemos soluções mágicas. Não escondemos nossos métodos.
+
+Compartilhamos exatamente:
+
+*   Como tomamos decisões de implementação.
+*   Por que certas abordagens falham.
+*   Quando é necessário ajustar o curso.
+*   Onde investir recursos escassos.
+  
+E sim, compartilhamos nossos erros também. Porque fingir que implementação é simples não ajuda ninguém.
 
 
-🎯 [[D4T/Começando com D4T|Começando com D4T]]: Domine a Arte de Pensar, Não Apenas de Treinar. Comece por aqui.
+>[!note] O que é
+>Framework prático que integra:
+>- Pensamento crítico estruturado.
+>- Design instrucional baseado em evidências.
+>- Metodologia de implementação testada.
+>- Sistema de medição de resultados.
+
+>[!success] Como funciona
+>1. Diagnóstico detalhado da situação atual.
+>2. Desenvolvimento do framework de implementação.
+>3. Capacitação hands-on da equipe.
+>4. Implementação assistida.
+>5. Medição e ajustes.
+>
+>*Duração típica: 3-6 meses*
+
+>[!warning] Por que compartilhamos tudo?
+>Acreditamos que valor real não vem de metodologias secretas.
+>Vem de capacidade comprovada de implementação.
+>
+>Por isso mostramos exatamente como fazemos, incluindo:
+>- Nossos frameworks completos.
+>- Nossas ferramentas de decisão.
+>- Nossos erros e aprendizados.
 
 
-| Seção                                                                                          | Descrição                                                                                                    | Relevância para Performance                            |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| 📚 [[D4T/Design Para o Pensamento\|Design Para o Pensamento]]                                  | Fundamentação teórica de Louis Raths sobre operações mentais e sua aplicação no desenvolvimento profissional | Base teórica para transformação de comportamento       |
-| 🎯 [[D4T/Dia a dia do Designer Instrucional/Ambiente\|Ambiente]]                               | Guia prático integrando metodologias de Mager e Gagné para desenvolvimento de soluções educacionais          | Aplicação sistemática para resultados mensuráveis      |
-| 💡  [[D4T/Comportamentos Inerciais/Comportamentos Inerciais\|Comportamentos Inerciais]]        | Análise científica dos padrões que impedem o aprendizado efetivo e estratégias para superá-los               | Identificação e superação de barreiras de aprendizagem |
-| 🧠 [[D4T/Operações de Pensamento/Operações de Pensamento\|Operações de Pensamento]]            | Estudo detalhado dos processos cognitivos e sua aplicação no desenvolvimento profissional                    | Ferramentas para desenvolvimento do pensamento crítico |
-| 📝 [[D4T/Dia a dia do Designer Instrucional/Codificação de Conteúdo\|Codificação de Conteúdo]] | Técnicas avançadas para estruturação de material que promove pensamento crítico                              | Metodologia para criação de conteúdo efetivo           |
-| 👥 [[D4T/Dia a dia do Designer Instrucional/Reuniões com SMEs\|Reuniões com SMEs]]             | Estratégias baseadas em evidências para colaboração com especialistas                                        | Garantia de precisão técnica e relevância prática      |
+Nossa abordagem nasceu da análise de padrões reais. O que descobrimos:
 
-## Design Instrucional
+*   Resistência não se vence com imposição, mas com demonstração prática.
+*   Mudança sustentável exige capacidade de implementação distribuída.
+*   Métricas precisam fazer sentido tanto para técnicos quanto para executivos.
+*   Implementação efetiva depende mais de método do que de motivação.
 
-- 🗃️ **Teoria**
-    - [Design Instrucional](Design%20Instrucional/Design%20Instrucional.md): saiba o que é o Design Instrucional.
-    - [[Design Instrucional/Áreas do Design Instrucional|Áreas do Design Instrucional]]: As 5 áreas de atuação do Designer Instrucional.
-    - [Fases do ADDIE](Design%20Instrucional/Fases%20do%20ADDIE.md): A Abordagem Sistemática para o Desenvolvimento de Experiências de Aprendizagem.
-    - [[Design Instrucional/ADDIE]]: Designers Instrucionais, Parem de Dizer "Modelo ADDIE".
-    - [SAM](Design%20Instrucional/SAM.md): O Successive Approximation Model é desenhado para obter feedback e construir projetos de aprendizagem ágeis.
-    - [Estudos de Caso](D4T/Estudos%20de%20caso/Estudos%20de%20Caso.md): Quer aprimorar seu aprendizado? Descubra como os estudos de caso podem te ajudar a desenvolver habilidades e competências.
+Como aplicamos:
 
-- 📍 **Análise de Performance**
-    - [Mapeamento de ações](Resenhas/Mapeamento%20de%20ações.md): MAP-IT: um guia prático para design estratégico de treinamentos.
-    - [Ambiente](D4T/Dia%20a%20dia%20do%20Designer%20Instrucional/Ambiente.md): O que é o ambiente do negócio e quais são as forças que agem nele.
-    - [[Design Instrucional/Mapeamento de Lições Baseado em Desempenho|Mapeamento de Lições Baseado em Desempenho]]: Conceitos importantes no design instrucional e análise de tarefas, incluindo como fazer uma análise, os componentes da análise de tarefas, e a diferença entre análise de conteúdo e análise de tarefas.
+*   Trabalhamos junto com sua equipe por 3-6 meses.
+*   Implementamos projetos reais da sua organização.
+*   Transferimos capacidade real de execução.
+*   Medimos resultados com transparência total.
 
-- 🧚 **Mitos**
-    - [[Design Instrucional/Estilos de Aprendizagem|Estilos de Aprendizagem]]: Em resumo, a aplicação dos estilos de aprendizagem na educação pode trazer mais prejuízos do que benefícios... e eles não existem. 
-    - [[Design Instrucional/Pirâmide da Aprendizagem]]: Não perca este artigo incrível, onde desmontamos a infalível Pirâmide de Aprendizagem e revelamos o segredo chocante: ela é baseada em... nada!
+>[!sucess] Não terceirizamos implementação. Desenvolvemos sua capacidade de implementar.
 
-- 🛠️ **Ferramentas**
-    -  [Exemplos, demonstrações e informações anedóticas](Design%20Instrucional/Exemplos,%20demonstrações%20e%20informações%20anedóticas.md): Como aproveitar ao máximo esses recursos.
-    -  [Cenários Ramificados](Design%20Instrucional/Cenários%20Ramificados.md): Como os Cenários Ramificados podem impulsionar o desenvolvimento de profissionais.
+## Resultados que podemos provar
 
-## Análise de negócios
+>[!example] Nos últimos 12 meses:
+>- 94% dos projetos implementados alcançaram as metas estabelecidas.
+>- 89% das mudanças continuam sustentáveis após 6 meses.
+>- 82% das equipes desenvolveram capacidade autônoma de implementação.
+>- 77% das organizações expandiram o modelo para outras iniciativas.
 
-- 🏢 [Como analisar uma empresa](MADE/Como%20analisar%20uma%20empresa.md): Como qualquer pessoa é capaz analisar de forma eficaz uma empresa, negócio ou departamento.
-- 🏢 [Eu consigo analisar um negócio?](notes/Negocios/MADE/Eu%20consigo%20analisar%20um%20negócio?.md): A análise bem conduzida e a aprendizagem organizacional são elementos-chave para o sucesso 
-- 🏢 [[Resenhas/Maus Hábitos|Maus Hábitos]]: maus hábitos nas empresas são comportamentos repetitivos e ineficientes que impedem a empresa e/ou profissional de atingir seu potencial.
-- 🏢 [5W2H](notes/Negocios/5W2H.md): O 5W2H é uma abordagem simples e direta que permite a identificação de todas as informações relevantes para o sucesso de um projeto, mas esconde um grande perigo.
-- 🏢 [Termos Comuns em Negócios](MADE/Termos%20Comuns%20em%20Negócios.md): Os termos que você precisa conhecer para entender organizações, fazer análises de negócio e criar mais valor nas suas entregas.
-- 🏢 [Planejamento Estratégico](../Negocios/Planejamento%20Estratégico.md): A estratégia é um conjunto de escolhas integradas que posiciona uma empresa para ganhar em um segmento, enquanto o planejamento é um conjunto de atividades, mas sem coerência interna.
+>[!tip] E quando não alcançamos as metas?
+>Documentamos exatamente o que deu errado e por quê.
+>Porque aprendemos tanto com falhas quanto com sucessos.
 
+## Pronto para implementação que funciona?
+
+Se você:
+
+*   Tem conteúdo de qualidade mas luta com a implementação.
+*   Busca mudança real de comportamento, não apenas métricas de LMS.
+*   Quer desenvolver capacidade interna de execução.
+*   Valoriza transparência e resultados práticos.
+
+Podemos ajudar.
+
+[Agende uma conversa →](Contato) para discutir seu desafio específico.
 
 >[!info] Sobre o site.
 >

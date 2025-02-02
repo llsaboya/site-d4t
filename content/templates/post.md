@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
-description: "Exemplo"
+title: 
+description: 
 draft: true
 ---

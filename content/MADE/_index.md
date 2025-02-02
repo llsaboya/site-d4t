@@ -1,3 +1,0 @@
----
-title: 📈 Análise de Negócios
----
