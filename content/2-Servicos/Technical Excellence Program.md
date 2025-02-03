@@ -1,4 +1,4 @@
-Vou traduzir o documento mantendo o contexto técnico e de negócios, garantindo que a mensagem seja clara e profissional em português.
+<img src="./banner.svg" width="701" height="183">
 
 # Programa de Excelência Técnica: Construindo Capacidade Real de Implementação
 

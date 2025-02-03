@@ -1,3 +1,5 @@
+<img src="./banner.svg" width="701" height="183">
+
 # Pacote de Arquitetura de Aprendizagem Estratégica: Conectando Visão e Realidade
 
 ## O que os Clientes Pensam que é o Problema

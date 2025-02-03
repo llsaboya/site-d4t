@@ -1,3 +1,5 @@
+<img src="./banner.svg" width="701" height="183">
+
 # Programa Construtor de Pontes: Criando Alinhamento Organizacional
 
 ## O Que os Clientes Pensam Ser o Problema

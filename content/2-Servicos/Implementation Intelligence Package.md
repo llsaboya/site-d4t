@@ -1,4 +1,6 @@
-# Pacote de Inteligência de Implementação: Transformando Conhecimento em Ação
+<img src="./banner.svg" width="701" height="183">
+
+# Programa de Inteligência de Implementação: Transformando Conhecimento em Ação
 
 ## O que os Clientes Pensam que é o Problema
 
@@ -14,7 +16,7 @@ O verdadeiro desafio não é conteúdo ou tecnologia - é implementação. As or
 * Falta de estruturas práticas de implementação
 * Medição insuficiente do impacto real
 
-## Como Este Pacote Resolve
+## Como Este Programa Resolve
 
 Em vez de adicionar mais conteúdo ou tecnologia, trabalhamos junto com sua equipe para construir capacidade real de implementação. Compartilhamos nossas estruturas abertamente, mostrando exatamente como iniciativas de aprendizagem bem-sucedidas funcionam na prática. Através de sessões semanais de coaching, ajudamos sua equipe a:
 
