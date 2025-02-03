@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Playfair Display",
         body: "Literata",
-        code: "Lato",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
@@ -58,13 +58,6 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),

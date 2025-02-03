@@ -8,15 +8,15 @@ const PageLogo: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompon
   const logo = cfg?.pageLogo ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-      <a href={baseDir}><img src={logo} alt={title} width="460" height="78"></img></a>
+      <a href={baseDir}><img class={classNames(displayClass, "page-logo")} src={logo} alt={title}></img></a>
   )
 }
 
 PageLogo.css = `
 .page-logo {
-  font-size: 0.75rem;
-  margin: 0;
-  align: center;
+    width: 460px;
+    height: auto;
+    margin: 0;
 }
 `
 

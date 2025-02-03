@@ -303,8 +303,6 @@ Facilitamos transferência completa de conhecimento via:
 
 _Este plano de entrega é projetado para ser adaptável com base nas necessidades organizacionais, mantendo elementos fundamentais que garantem o sucesso da implementação._
 
-
-
 ```mermaid
 gantt
     title Programa de Excelência Técnica - 6 Meses

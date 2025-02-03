@@ -6,9 +6,9 @@ tags:
 
 Imagine que você acabou de comprar um carro novo. Todo mês, você investe dinheiro em combustível, manutenção e seguro. Seria natural querer saber se esse investimento está valendo a pena, certo? O mesmo acontece com treinamentos nas empresas.
 
-O mercado brasileiro de Learning & Development apresenta números significativos. As organizações investem em média R$ 1.072 por funcionário anualmente em treinamento e desenvolvimento. Uma empresa com 1.000 funcionários investe aproximadamente R$ 1.072.000 por ano em iniciativas de aprendizagem.
+O mercado brasileiro de Learning & Development apresenta números significativos. As organizações investem em média R\$ 1.072 por funcionário anualmente em treinamento e desenvolvimento. Uma empresa com 1.000 funcionários investe aproximadamente R\$ 1.072.000 por ano em iniciativas de aprendizagem.
 
-Este investimento distribui-se entre bibliotecas de conteúdo digital, treinamentos presenciais e desenvolvimento interno. O custo médio por hora de treinamento atinge R$ 46,60, incluindo custos com instrutores, materiais e infraestrutura. Considerando a média de 23 horas de treinamento por funcionário ao ano, percebemos um investimento substancial em desenvolvimento de pessoas.
+Este investimento distribui-se entre bibliotecas de conteúdo digital, treinamentos presenciais e desenvolvimento interno. O custo médio por hora de treinamento atinge R\$ 46,60, incluindo custos com instrutores, materiais e infraestrutura. Considerando a média de 23 horas de treinamento por funcionário ao ano, percebemos um investimento substancial em desenvolvimento de pessoas.
 
 Porém, medir apenas custos e horas de treinamento não revela o verdadeiro impacto no negócio. Seguindo a abordagem de Robert Mager, precisamos estabelecer objetivos claros de performance, especificando comportamentos observáveis e critérios de qualidade. Por exemplo, em vez de "melhorar atendimento", definimos "resolver reclamações em até 4 horas mantendo satisfação acima de 85%".
 
@@ -19,18 +19,18 @@ Louis Raths complementa esta visão ao propor a medição de operações de pens
 ## Parte 1: Entendendo o Básico - Onde vai o dinheiro?
 
 
-Vamos usar um exemplo simples. Pense em uma empresa com 1.000 funcionários. Todo ano, ela investe cerca de R$1 milhão em treinamento. Este dinheiro geralmente é distribuído assim:
+Vamos usar um exemplo simples. Pense em uma empresa com 1.000 funcionários. Todo ano, ela investe cerca de R\$1 milhão em treinamento. Este dinheiro geralmente é distribuído assim:
 
 ### 1. Biblioteca de Conteúdo Digital
 Imagine uma Netflix de cursos corporativos:
-- Custo: R$400.000 por ano.
+- Custo: R\$400.000 por ano.
 - Instalação inicial: R$100.000.
-- Manutenção anual: R$120.000.
+- Manutenção anual: R\$120.000.
 
 ### 2. Treinamentos Presenciais
 Como uma escola tradicional:
 - Cada funcionário recebe 23 horas de treinamento por ano.
-- Cada hora custa R$46,60 (incluindo instrutor, material, sala, etc.).
+- Cada hora custa R\$46,60 (incluindo instrutor, material, sala, etc.).
 
 ### 3. Outros Investimentos
 Como aulas particulares ou consultoria:
@@ -44,12 +44,12 @@ Aqui está algo interessante que muitas pessoas não percebem. Vamos usar a bibl
 
 **Cenário Ideal:**
 Se todos os 1.000 funcionários usassem a biblioteca:
-- Cada hora de treinamento custaria R$17,39.
+- Cada hora de treinamento custaria R\$17,39.
 - Parece um bom negócio, não é?
 
 **Realidade Comum:**
 Mas o que acontece quando apenas 200 funcionários (20%) realmente usam?
-- O custo por hora salta para R$87,00.
+- O custo por hora salta para R\$87,00.
 - O mesmo investimento agora serve menos pessoas.
 - É como pagar Netflix para toda família, mas só uma pessoa assiste.
 
@@ -115,13 +115,13 @@ Total: R$150.000
 ROI = (150.000 - 100.000) / 100.000 × 100 = 50%
 ```
 
-Isso significa que para cada R$100 investidos, a empresa ganhou R$50 de volta.
+Isso significa que para cada R\$100 investidos, a empresa ganhou R\$50 de volta.
 
 ## Como Usar Estas Informações?
 
 Para medir o verdadeiro retorno sobre investimento, estabelecemos uma linha base antes do programa, documentando performance atual em tarefas críticas. Definimos métricas de impacto em negócio, como redução de custos e aumento em eficiência. Implementamos um sistema contínuo de tracking, coletando dados quantitativos e qualitativos.
 
-O ROI real considera não apenas custos diretos de treinamento, mas também ganhos em produtividade e qualidade. Por exemplo, um investimento de R$ 620.000 que gere R$ 1.120.000 em benefícios representa um ROI de 81%.
+O ROI real considera não apenas custos diretos de treinamento, mas também ganhos em produtividade e qualidade. Por exemplo, um investimento de R\$ 620.000 que gere R\$ 1.120.000 em benefícios representa um ROI de 81%.
 
 Completar cursos e demonstrar engajamento não significa necessariamente melhorar performance. O verdadeiro valor do treinamento corporativo está em sua capacidade de gerar mudanças comportamentais que impactam resultados organizacionais. Medir este impacto requer foco em métricas relevantes para o negócio, documentação consistente e ajustes contínuos baseados em dados.
 

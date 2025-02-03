@@ -296,8 +296,6 @@ Facilitamos a transferência completa de conhecimento por meio de:
 
 _Este plano de entrega foi projetado para ser adaptável com base nas necessidades organizacionais, mantendo elementos fundamentais que garantem o sucesso da implementação._
 
-
-
 ```mermaid
 gantt
     title Linha do Tempo - Arquitetura Estratégica de Aprendizagem
