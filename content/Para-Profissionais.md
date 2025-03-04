@@ -27,6 +27,8 @@ description: Domine a Arte de Pensar, Não Apenas de Treinar
     - [Mapeamento de ações](Mapeamento%20de%20ações.md): MAP-IT: um guia prático para design estratégico de treinamentos.
     - [3 - Ambiente](3%20-%20Ambiente.md): O que é o ambiente do negócio e quais são as forças que agem nele.
     - [[Design Instrucional/Mapeamento de Lições Baseado em Desempenho|Mapeamento de Lições Baseado em Desempenho]]: Conceitos importantes no design instrucional e análise de tarefas, incluindo como fazer uma análise, os componentes da análise de tarefas, e a diferença entre análise de conteúdo e análise de tarefas.
+    - [[Modelo de Maturidade de L&D Essencial e de Baixo Orçamento]]: Tradução do artigo de Joe Dunlap sobre um modelo de maturidade para Aprendizagem e Desenvolvimento (L&D) adaptado para organizações com recursos limitados.
+    - [[HPT]]: Um guia abrangente que explora os princípios, metodologias e aplicações da Tecnologia de Desempenho Humano (HPT) para melhorar o desempenho nas organizações.
 
 - 🧚 **Mitos**
     - [[Design Instrucional/Estilos de Aprendizagem|Estilos de Aprendizagem]]: Em resumo, a aplicação dos estilos de aprendizagem na educação pode trazer mais prejuízos do que benefícios... e eles não existem. 
@@ -41,7 +43,7 @@ description: Domine a Arte de Pensar, Não Apenas de Treinar
 - 🏢 [1 - Como analisar uma empresa](1%20-%20Como%20analisar%20uma%20empresa.md): Como qualquer pessoa é capaz analisar de forma eficaz uma empresa, negócio ou departamento.
 - 🏢 [Eu consigo analisar um negócio?](notes/Negocios/MADE/Eu%20consigo%20analisar%20um%20negócio?.md): A análise bem conduzida e a aprendizagem organizacional são elementos-chave para o sucesso 
 - 🏢 [[Maus Hábitos|Maus Hábitos]]: maus hábitos nas empresas são comportamentos repetitivos e ineficientes que impedem a empresa e/ou profissional de atingir seu potencial.
-- 🏢 [5W2H](notes/Negocios/5W2H.md): O 5W2H é uma abordagem simples e direta que permite a identificação de todas as informações relevantes para o sucesso de um projeto, mas esconde um grande perigo.
+- 🏢 [[Negocios/5W2H|5W2H]]: O 5W2H é uma abordagem simples e direta que permite a identificação de todas as informações relevantes para o sucesso de um projeto, mas esconde um grande perigo.
 - 🏢 [11 - Termos Comuns em Negócios](11%20-%20Termos%20Comuns%20em%20Negócios.md): Os termos que você precisa conhecer para entender organizações, fazer análises de negócio e criar mais valor nas suas entregas.
 - 🏢 [Planejamento Estratégico](../Negocios/Planejamento%20Estratégico.md): A estratégia é um conjunto de escolhas integradas que posiciona uma empresa para ganhar em um segmento, enquanto o planejamento é um conjunto de atividades, mas sem coerência interna.
 

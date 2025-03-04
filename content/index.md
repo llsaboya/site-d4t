@@ -14,7 +14,7 @@ O *Design*<sup>4</sup>**Thinking** ajuda equipes técnicas e executivos a implem
 
 Para organizações interessadas em elevar o nível de seus treinamentos, trazemos uma metodologia que vai além do design instrucional tradicional. 
 
-Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019
+Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019.
 
 [Agende uma conversa →](Contato) para discutir seu desafio específico.
 
@@ -49,7 +49,7 @@ Compartilhamos exatamente:
 *   Por que certas abordagens falham.
 *   Quando é necessário ajustar o curso.
 *   Onde investir recursos escassos.
-  
+
 E sim, compartilhamos nossos erros também. Porque fingir que implementação é simples não ajuda ninguém.
 
 
@@ -127,5 +127,4 @@ Podemos ajudar.
 >- [[FAQ]]: o que é o *Design*<sup>4</sup>**Thinking**? Existe embasamento teórico? Aplicação prática?
 >- [Como usar esse site](notes/Sobre-site/Como%20usar%20esse%20site.md): o site contém notas, idéias e reflexões organizadas uma rede de conhecimentos profissionals.
 >- Criado e desenvolvido por [Lefebvre Saboya](https://llsaboya.com/pt-br/)
-
 
