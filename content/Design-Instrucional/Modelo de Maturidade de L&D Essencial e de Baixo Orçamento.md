@@ -15,13 +15,16 @@ tags:
 
 Você já notou que a maioria dos modelos de maturidade que nos "empurram" parecem baseados só no que as empresas Fortune 500 estão fazendo? Parece que as pesquisas e publicações insinuam que se não estamos seguindo essas práticas, se não temos acesso a essas tecnologias, etc., de alguma forma "não estamos à altura deles"?
 
-Talvez seja só impressão minha, mas como membro da maioria dos profissionais de L&D que não trabalham para uma Fortune 500, **"dá um tempo."** Se suas fontes de informação são apenas organizações grandes e globais, sua visão sobre a maturidade de L&D é muito distorcida. Por exemplo, [Sandra Loughlin, PhD](https://www.linkedin.com/in/sandraloughlin/) compartilhou uma [publicação](https://www.linkedin.com/posts/sandra-loughlin-phd-a7a683b2_skillsbasedorganization-hrtransformation-activity-7236893828320821250-cxoK?utm_source=share&utm_medium=member_desktop) maravilhosa outro dia sobre como os fornecedores estão entendendo "ERRADO" a conversa sobre organizações baseadas em habilidades, e ela está certa!
+Talvez seja só impressão minha, mas como membro da maioria dos profissionais de L&D que não trabalham para uma Fortune 500, **"dá um tempo."** Se suas fontes de informação são apenas organizações grandes e globais, sua visão sobre a maturidade de L&D é muito distorcida. Por exemplo, [Sandra Loughlin, PhD](https://www.linkedin.com/in/sandraloughlin/) compartilhou outro dia uma [publicação](https://www.linkedin.com/posts/sandra-loughlin-phd-a7a683b2_skillsbasedorganization-hrtransformation-activity-7236893828320821250-cxoK?utm_source=share&utm_medium=member_desktop) maravilhosa sobre como os fornecedores estão entendendo "ERRADO" a conversa sobre organizações baseadas em habilidades, e ela está certa!
 
-Assim como a conversa sobre habilidades, a conversa sobre modelos de maturidade me lembra a citação de Jurassic Park: _"... o problema com o poder científico que você está usando aqui: não exigiu disciplina para obtê-lo. Você leu o que outros fizeram e deu o próximo passo. Você não adquiriu o conhecimento por si mesmo..."_
+Assim como a conversa sobre habilidades, a conversa sobre modelos de maturidade me lembra a citação de Jurassic Park: 
 
-Então, como membro dos profissionais de L&D "que não está nos holofotes", vamos abordar o modelo de maturidade da perspectiva de impulsionar o desempenho real dos negócios sem o luxo de grandes orçamentos e tecnologia de ponta.
+>[!quote] 
+>_"... o problema com o poder científico que você está usando aqui: não exigiu disciplina para obtê-lo. Você leu o que outros fizeram e deu o próximo passo. Você não adquiriu o conhecimento por si mesmo..."_
 
-Aqui está a boa notícia: você não precisa de um monte de recursos caros de tecnologia de L&D, ou de investimentos massivos, para construir uma estratégia sólida de aprendizagem e desenvolvimento. O que você precisa é de um caminho simples e claro para progredir—um modelo de maturidade que o leve do treinamento reativo básico ao poder transformador de L&D como impulsionador de desempenho. A melhor parte? Você pode fazer isso com uma abordagem de baixo orçamento.
+Então, como membro dos profissionais de L&D "que não está nos holofotes", vamos abordar o modelo de maturidade da perspectiva de impulsionar o desempenho real dos negócios, sem o luxo de grandes orçamentos e tecnologia de ponta.
+
+Aqui está a boa notícia: você não precisa de um monte de recursos caros de tecnologia de L&D, ou de investimentos massivos, para construir uma estratégia sólida de aprendizagem e desenvolvimento. O que você precisa é de um caminho simples e claro para progredir—um modelo de maturidade que o leve do treinamento reativo básico para um poderoso e transformador L&D como impulsionador de desempenho. A melhor parte? Você pode fazer isso com uma abordagem de baixo orçamento.
 
 Então, meus colegas de L&D "que ainda não estão hos holofotes", aqui está um exemplo de modelo de maturidade de baixo orçamento que pode ajudá-lo em seu caminho.
 
@@ -70,9 +73,9 @@ Uma vez que o treinamento reativo está implementado, o próximo passo é padron
 - Cursos Gratuitos: YouTube, LinkedIn Learning, Khan Academy, MIT Open Course Ware, Future Learn, Ted X e Podcasts dependendo do tópico.
 - Para feedback: Survey Monkey.
 - O LMS: Moodle.
-- Estruturação de caminhos de aprendizagem e entrega de conteúdo - além do MS Teams, SharePoint e Google acima, adicione Trello e Asana às suas possibilidades
-- Vídeo: YouTube, Loom, OBS Studio
-- Colaboração: novamente MS Teams, Google Meet, Slack e Trello
+- Estruturação de caminhos de aprendizagem e entrega de conteúdo - além do MS Teams, SharePoint e Google acima, adicione Trello e Asana às suas possibilidades.
+- Vídeo: YouTube, Loom, OBS Studio.
+- Colaboração: novamente MS Teams, Google Meet, Slack e Trello.
 - Criação de Conteúdo: novamente MS Teams e Google oferecem recursos, mas adicione Canva, Notion, Typeform, WhatsApp e Kahoot.
 ### Etapa 3: Construção de Capacidade
 
@@ -81,7 +84,7 @@ Neste estágio, L&D muda para a construção de capacidades reais—desenvolvend
 **Características:**
 
 - L&D muda do fornecimento de treinamento para o aprimoramento de capacidades no trabalho, estas críticas para o sucesso individual e da equipe.
-- Os programas incorporam oportunidades para os alunos aplicarem habilidades no trabalho, concentrando-se no desenvolvimento de capacidades de fluxo de trabalho. As Experiências de Aprendizagem não são projetadas, mas planejadas dentro do fluxo de trabalho.
+- Os programas incorporam oportunidades para os alunos aplicarem habilidades no trabalho, concentrando-se no desenvolvimento de capacidades de fluxo de trabalho. As experiências de aprendizagem não são projetadas, mas planejadas dentro do fluxo de trabalho.
 - Você está reduzindo a dependência de modelos, métodos e tecnologias de "aprendizagem" e incorporando **[[TWI]], [[HPT]] e os [[5 Momentos de Necessidade]].**
 - Você adota métodos de fluxo de trabalho como Lean Startup, Agile e DevOps em vez de métodos de aprendizagem como ADDIE. Sou mais do tipo Lean Startup (por favor, use os métodos usados em seu local de trabalho) porque é construído sobre a ideia de Construir-Medir-Aprender e o Produto Mínimo Viável, ou MVP.
 
@@ -207,11 +210,11 @@ Embora a maioria das tecnologias de operações de aprendizagem seja especificam
 
 Na seção anterior, exploramos o que você pode fazer na fase de Aprendizagem Reativa. Por mais que poucos profissionais gostem de operar nesse nível, essa realidade ainda persiste em muitas organizações - sim, até mesmo nas minhas experiências profissionais.
 
-O Aprendizado Estruturado fundamenta-se na eficiência operacional e na produtividade. Isso engloba os modelos que desenvolvemos, os processos que implementamos, o formato visual dos nossos materiais e toda a arquitetura do nosso fluxo de operações de aprendizagem.
+O aprendizado estruturado fundamenta-se na eficiência operacional e na produtividade. Isso engloba os modelos que desenvolvemos, os processos que implementamos, o formato visual dos nossos materiais e toda a arquitetura do nosso fluxo de operações de aprendizagem.
 
-O problema, na minha opinião, é que muitas vezes estamos muito focados e limitados em nossas estruturas de aprendizagem, o que leva a uma desconexão dos fluxos de trabalho operacionais de nossos clientes. Em outras palavras, "*somos uma operação eficiente em nosso mundo, às custas de sermos eficazes para nossos clientes?*"
+O problema, na minha opinião, é que muitas vezes estamos muito focados e limitados em nossas estruturas de aprendizagem, levando a uma desconexão dos fluxos de trabalho operacionais de nossos clientes. Em outras palavras, "*somos uma operação eficiente em nosso mundo, às custas de sermos eficazes para nossos clientes?*"
 
-Quando comecei, eu tinha uma diretora explicava de maneira fantástica as coisas, em termos de bom senso. Eram os primeiros dias do LMS, e meus colegas e eu estávamos empolgados com a integração do nosso primeiro LMS. Enquanto falávamos sobre isso, ela introduziu esse pensamento que ficou comigo cerca de 20 anos depois: "*estamos convidando nossos clientes para nossa casa para jantar ou estamos entregando a comida  onde eles comem?*"
+Quando comecei, eu tinha uma diretora que explicava de maneira fantástica as coisas, em termos de bom senso. Eram os primeiros dias do LMS, e meus colegas e eu estávamos empolgados com a integração do nosso primeiro LMS. Enquanto falávamos sobre isso, ela introduziu esse pensamento que ficou comigo cerca de 20 anos depois: "*estamos convidando nossos clientes para nossa casa para jantar ou estamos entregando a comida  onde eles comem?*"
 
 O objetivo aqui é podermons começar a nos mover lentamente do nosso mundo para o do nosso cliente. Não vai acontecer da noite para o dia, especialmente se você ainda estiver trabalhando em um ambiente predominantemente de *Aprendizagem Reativa*, mas um pouco de paciência e perseverança ao longo do tempo te levará longe. Observe que estou escrevendo isso sob as mesmas suposições operacionais que expliquei anteriormente.
 
@@ -243,14 +246,14 @@ O objetivo aqui é podermons começar a nos mover lentamente do nosso mundo para
 
 **Integração dos 5 Momentos de Necessidade:**
 
-- Ferramenta: Forneça aos operadores aprendizado just-in-time (guias de solução de problemas, ajudas de trabalho) usando Canais do Teams e WhatsApp.
+- Ferramenta: Forneça aos profissionais o aprendizado just-in-time (guias de solução de problemas, ajudas de trabalho) usando Canais do Teams e WhatsApp.
 - Teste: Teste a facilidade de acesso dos trabalhadores aos guias ou e das solicitações de suporte.
 
 No mundo dos negócios, as operações estão constantemente evoluindo e requerem soluções imediatas e adaptativas que se alinhem diretamente com os desafios em tempo real. Aderir rigidamente a estruturas orientadas por processos de aprendizagem pode fazer com que as equipes de L&D percam de vista o todo, tornando-se desconectadas dos verdadeiros objetivos de desempenho do negócio.
 
 A aprendizagem e o desenvolvimento devem encontrar os funcionários onde eles estão, não onde esperamos que estejam. Este conceito é mais importante do que nunca. No ambiente de trabalho de hoje, os funcionários estão fazendo malabarismo com múltiplas tarefas, dispersos em diferentes locais, contando frequentemente com recursos imediatos (just-in-time) para realizar o trabalho.
 
-O sucesso de qualquer iniciativa de aprendizagem depende de fornecermos treinamento  que se integre perfeitamente às suas rotinas diárias e fluxo de trabalho. Seja no chão de fábrica ou em sua mesa, L&D precisa oferecer experiências de aprendizagem onde os funcionários estão, não os forçar a vir a uma plataforma que pode parecer desconectada de sua realidade. Ao focar na incorporação da aprendizagem diretamente no fluxo de trabalho, garantimos que os funcionários possam aplicar novas habilidades imediatamente, impulsionando o impacto operacional real em vez de somente marcar como concluído um módulo de treinamento.
+O sucesso de qualquer iniciativa de aprendizagem depende de fornecermos treinamento que se integre perfeitamente às suas rotinas diárias e fluxo de trabalho. Seja no chão de fábrica ou em sua mesa, L&D precisa oferecer experiências de aprendizagem onde os funcionários estão, não os forçar a vir a uma plataforma que pode parecer desconectada de sua realidade. Ao focar na incorporação da aprendizagem diretamente no fluxo de trabalho, garantimos que os funcionários possam aplicar novas habilidades imediatamente, impulsionando o impacto operacional real em vez de somente marcar como concluído um módulo de treinamento.
 
 # Construção de Capacidade - usando tecnologia interna e processos para desenvolvimento de capacidade no trabalho
 
@@ -318,7 +321,7 @@ Por exemplo, à medida que indivíduos e equipes desenvolvem suas capacidades, e
 
 E esta é uma das razões pelas quais estou "pressionando" tanto pelo uso de tecnologia interna, processos, etc. Qualquer coisa externa ao ecossistema de fluxo de trabalho interno provavelmente não tem a **flexibilidade, adaptabilidade e integração necessárias para acompanhar o ritmo de mudança dentro da organização.**
 
-É como aquele [artigo](https://www.linkedin.com/pulse/can-you-scale-personalized-learning-joe-dunlap/?trackingId=xHPeCWGkRfCKJx0eZ8Ty1Q%3D%3D) que escrevi sobre a mania da aprendizagem personalizada - a tecnologia ou modelo de design de L&D geralmente é padronizado, linear e/ou orientado por processos. As equipes de aprendizagem precisam de abordagens mais **ágeis, informais e integradas ao trabalho e à tecnologia** que possam se adaptar às mudanças contínuas, enquanto ainda garantem o aprendizado, a aplicação, o desenvolvimento de capacidades e o alcance de competências.
+É como aquele [artigo](https://www.linkedin.com/pulse/can-you-scale-personalized-learning-joe-dunlap/?trackingId=xHPeCWGkRfCKJx0eZ8Ty1Q%3D%3D) que escrevi sobre a mania da aprendizagem personalizada - a tecnologia ou modelo de design de L&D é geralmente padronizado, linear e/ou orientado por processos. As equipes de aprendizagem precisam de abordagens mais **ágeis, informais e integradas ao trabalho e à tecnologia** que possam se adaptar às mudanças contínuas, enquanto ainda garantem o aprendizado, a aplicação, o desenvolvimento de capacidades e o alcance de competências.
 
 Como isso parecer na prática?
 
@@ -328,7 +331,7 @@ Como isso parecer na prática?
 
 - A aprendizagem acontece em tempo real, incorporada nas tarefas diárias. Os funcionários não precisam mais parar seu trabalho para aprender em outro lugar; em vez disso, eles acessam materiais de aprendizagem, ajudas de trabalho, guias, vídeos, bases de conhecimento ou recebem feedback por meio de plataformas como Microsoft Teams, SharePoint ou WhatsApp. Os funcionários podem encontrar rapidamente soluções ou aprender novos processos conforme necessário.
 - Incorpore princípios Kaizen diretamente no fluxo de trabalho diário, incentivando os funcionários a refletir constantemente sobre o que estão aprendendo e como podem melhorar os processos à medida que aplicam seu conhecimento e habilidades.
-- Os funcionários podem integrar a aprendizagem em suas tarefas diárias aplicando constantemente o ciclo **PDCA**. Depois de aprender uma nova habilidade, eles podem **Planejar** como aplicá-la, **Fazer** a tarefa com a nova habilidade, **Verificar** se o resultado melhorou e **Agir** refinando ainda mais o processo, se necessário.
+- Os funcionários podem integrar a aprendizagem em suas tarefas diárias aplicando constantemente o ciclo **PDCA**. Após aprender uma nova habilidade, eles podem **Planejar** como aplicá-la, **Fazer** a tarefa com a nova habilidade, **Verificar** se o resultado melhorou e **Agir** refinando ainda mais o processo, se necessário.
 
 **Propriedade do Desenvolvimento:**
 
@@ -339,7 +342,7 @@ Como isso parecer na prática?
 
 **Suporte e Coaching de Gerentes:**
 
-- Gerentes e líderes apoiam ativamente a aprendizagem contínua incentivando os membros da equipe a buscar oportunidades de crescimento. Eles criam uma cultura onde o aprendizado é celebrado e integrado ao desempenho do trabalho.
+- Gerentes e líderes apoiam ativamente a aprendizagem contínua, incentivando os membros da equipe a buscar oportunidades de crescimento. Eles criam uma cultura onde o aprendizado é celebrado e integrado ao desempenho do trabalho.
 - Gerentes e líderes podem conduzir **caminhadas Gemba** para observar os funcionários enquanto aplicam suas novas habilidades no trabalho. Isso permite que eles forneçam coaching e feedback em tempo real, apoiando a aprendizagem contínua enquanto identificam áreas para melhoria contínua.
 
 **Redes de Pares e Aprendizagem Social:**
@@ -375,9 +378,9 @@ Como isso parecer na prática?
 
 Antes de concluir, você pode se perguntar: "como implemento a aprendizagem contínua na minha empresa?" A resposta está no **mapeamento de talentos** — não apenas desenvolvê-lo, mas usá-lo para identificar as lacunas que impulsionam a necessidade de aprendizagem. Se mais organizações fizessem isso regularmente, avaliando tanto o potencial atual quanto o futuro, provavelmente o debate sobre "habilidades" não estaria tão intenso como hoje.
 
-O mapeamento de talentos permite avaliar a profundidade de competências em toda organização, revelando áreas com escassez crítica ou onde os colaboradores precisam de preparo para novos desafios. Este diagnóstico identifica precisamente onde as capacidades da equipe são insuficientes - seja em potencial de liderança, conhecimento técnico ou adaptabilidade.
+O mapeamento de talentos permite avaliar a profundidade de competências em toda a organização, revelando áreas com escassez crítica ou onde os colaboradores precisam de preparo para novos desafios. Este diagnóstico identifica precisamente onde as capacidades da equipe são insuficientes - seja em potencial de liderança, conhecimento técnico ou adaptabilidade.
 
-Com essas lacunas identificadas, a aprendizagem contínua torna-se uma necessidade estratégica, ao invés de ser apenas outra inciativa. Utilize os insights do mapeamento para criar soluções que atendam às necessidades reais do negócio, focando em preencher essas lacunas críticas através de observação de trabalho, mentoria entre pares ou programas específicos de desenvolvimento. Assim, o **mapeamento de talentos** não apenas revela oportunidades de melhoria, mas também impulsiona a criação de uma cultura de aprendizagem contínua, estrategicamente vinculada aos resultados de desempenho.
+Com essas lacunas identificadas, a aprendizagem contínua torna-se uma necessidade estratégica, ao invés de ser apenas outra iniciativa. Utilize os insights do mapeamento para criar soluções que atendam às necessidades reais do negócio, focando em preencher essas lacunas críticas através de observação de trabalho, mentoria entre pares ou programas específicos de desenvolvimento. Assim, o **mapeamento de talentos** não apenas revela oportunidades de melhoria, mas também impulsiona a criação de uma cultura de aprendizagem contínua, estrategicamente vinculada aos resultados de desempenho.
 
 A Aprendizagem Contínua integra o desenvolvimento no cotidiano profissional, garantindo que os colaboradores evoluam constantemente e apliquem novas competências. Ela promove crescimento autogerido, feedback imediato e colaboração entre pares, utilizando tecnologias existentes como Microsoft Teams e SharePoint, para tornar o aprendizado acessível e relevante. Com isso, as organizações alcançam melhorias sustentáveis e mantêm um time engajado e adaptável.
 
@@ -385,13 +388,13 @@ A Aprendizagem Contínua integra o desenvolvimento no cotidiano profissional, ga
 
 E chegamos ao final dessa jornada! Obrigado a todos que permaneceram comigo nessa maratona de artigos que nunca planejei escrever. Tudo começou com uma simples pergunta do Shekar Mani, e de repente me vi escrevendo uma saga completa sobre transformação em L&D. Se você sobreviveu aos artigos [1](https://www.linkedin.com/pulse/reactive-training-because-we-all-start-somewhere-joe-dunlap-mavuc/?trackingId=iObdDglMQv2%2FLDA9vp5tvA%3D%3D), [2](https://www.linkedin.com/pulse/structured-training-bare-bones-low-budget-in-house-tech-joe-dunlap-8mwrc/?trackingId=iObdDglMQv2%2FLDA9vp5tvA%3D%3D), [3](https://www.linkedin.com/pulse/capability-building-using-in-house-tech-processes-workflow-dunlap-tlw5c/?trackingId=iObdDglMQv2%2FLDA9vp5tvA%3D%3D) e [4](https://www.linkedin.com/pulse/continuous-learning-its-being-workflow-joe-dunlap-yaixc/?trackingId=iObdDglMQv2%2FLDA9vp5tvA%3D%3D), já deve ter percebido minha missão: mostrar como transformar seu departamento de L&D de uma fábrica de conteúdo em uma verdadeira força de melhoria de desempenho.
 
-Nick Shackleton-Jones recentemente publicou a seguinte imagem que se alinha muito bem com esta série de artigos.
+Nick Shackleton-Jones publicou recentemente a seguinte imagem que se alinha muito bem com esta série de artigos.
 
 ![[Nick Shackleton-Jones.png]] Nick Shackleton-Jones.
 
-O mercado está cheio de vendedores faturando alto com criação e entrega de conteúdo. No último ano, esses mesmos fornecedores se desdobraram para contar como sua IA revolucionária facilita a criação de conteúdo ou como podem entregar tudo perfeitamente através do MS Teams, Slack e qualquer dispositivo móvel que você tenha em mãos.
+O mercado está cheio de vendedores faturando alto com a criação e entrega de conteúdo. No último ano, esses mesmos fornecedores se desdobraram para contar como sua IA revolucionária facilita a criação de conteúdo ou como podem entregar tudo perfeitamente através do MS Teams, Slack e qualquer dispositivo móvel que você tenha em mãos.
 
-Como Líder de L&D focado na melhoria de desempenho, a maioria dessas ferramentas não se alinha totalmente com esse objetivo, porque estão centradas na criação e entrega de conteúdo em vez de suporte contínuo e em tempo real ao desempenho. Para realmente impulsionar a aprendizagem contínua e a melhoria de desempenho, suas plataformas devem evoluir para além disso, para fornecer **suporte integrado, sob demanda e contextual ao trabalho** que ajuda os funcionários a resolver problemas e aplicar habilidades exatamente quando precisam - e dentro dos sistemas que usam todos os dias.
+Como Líder de L&D focado na melhoria de desempenho, a maioria dessas ferramentas não se alinha totalmente com esse objetivo, porque estão centradas na criação e entrega de conteúdo em vez de suporte contínuo e em tempo real ao desempenho. Para realmente impulsionar a aprendizagem contínua e a melhoria de desempenho, suas plataformas devem evoluir além disso, para fornecer **suporte integrado, sob demanda e contextual ao trabalho** que ajuda os funcionários a resolver problemas e aplicar habilidades exatamente quando precisam - e dentro dos sistemas que usam todos os dias.
 
 Isso pode envolver a integração de bases de conhecimento, assistentes digitais, ajudas de trabalho, canais de aprendizagem ou coaching imediato nas operações diárias, garantindo que os funcionários possam acessar informações críticas no momento da necessidade, dentro das ferramentas que já estão usando, como MS Teams, SharePoint, Slack ou seu CRM.
 
@@ -417,6 +420,6 @@ Este é o objetivo final: transformar L&D em uma função estratégica que impul
 
 A beleza deste modelo de maturidade é sua simplicidade. Você não precisa da mais recente tecnologia de IA ou plataformas de aprendizagem de ponta para impulsionar mudanças reais e mensuráveis em sua organização. Ao se concentrar no aprendizado de habilidades, aplicação de habilidades, desenvolvimento de capacidades, conquista de competências, melhoria de desempenho e aproveitar as ferramentas que você já tem, você pode alcançar a transformação com um orçamento limitado.
 
-No final do dia, não se trata da tecnologia—trata-se de como você apoiou o aprendizado contínuo em todas as suas formas para a melhoria de desempenho. Vamos dar o primeiro passo—juntos.
+No final do dia, não se trata da tecnologia—trata-se de como você apoiou o aprendizado contínuo em todas as suas formas para a melhoria de desempenho. Vamos dar o primeiro passo juntos.
 
 Obrigado pela leitura, até a próxima...
