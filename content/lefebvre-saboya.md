@@ -7,9 +7,9 @@ tags:
 draft: false
 date: 2025-04-07
 ---
-# Sobre Mim: Especialista em Inovação e Implementação em L&D
+# Sobre Mim: Especialista em Inovação e Projetos em L&D
 
-Em 2016, observei um cliente gastar R$435.000 em uma plataforma de aprendizagem que ninguém usou. Os executivos celebraram o lançamento enquanto os colaboradores silenciosamente voltavam aos seus antigos métodos. A equipe de treinamento monitorava conclusões que não significavam nada. E os consultores que venderam a solução já haviam seguido para seu próximo projeto.
+Em 2016, observei um cliente gastar R$435.000 em uma plataforma de aprendizagem que ninguém usou. Os executivos celebraram o lançamento enquanto os colaboradores silenciosamente voltavam aos seus velhos métodos. A equipe de treinamento monitorava indicadores que não significavam nada. E os consultores que venderam a solução já haviam seguido para seu próximo projeto.
 
 Esse momento cristalizou o que eu suspeitava há anos: o cenário corporativo brasileiro estava preso em uma mentalidade de Treinamento & Desenvolvimento quando precisava de inovação em Aprendizagem & Desenvolvimento.
 
@@ -63,3 +63,34 @@ Se você está pronto para ir além do pensamento tradicional de T&D e abraçar 
 [Agende uma conversa pelo Whatsapp →](https://wa.me/555135578245)  para conversarmos sobre a transformação da sua abordagem para L&D.
 
 _Lembre-se: No Brasil, muitas organizações instalam sistemas de gestão de aprendizagem e chamam isso de "inovação". A verdadeira inovação acontece quando você transforma como as pessoas experienciam a aprendizagem em seu trabalho diário. O resto é apenas maquiagem cara._
+
+> [!abstract] Escolha Seu Caminho de Implementação
+> 
+> ### Implementation Intelligence Package
+> *Para organizações cansadas de frameworks teóricos que não sobrevivem ao contato com a realidade*
+> 
+> Você sabe o que precisa ser feito. Seu desafio é fazer acontecer dentro do contexto único da sua organização. Esta parceria intensiva de 3 meses guia você pela implementação real, passo a passo.
+> 
+> [Veja exatamente como funciona →](Implementation%20Intelligence%20Package.md)
+> 
+> ### Strategic Learning Architecture
+> *Para executivos que querem entender o que realmente impulsiona o [[ROI em T&D]] da aprendizagem*
+> 
+> A maioria das estratégias de aprendizagem falha não porque são más estratégias, mas porque ignoram as realidades da implementação. Este programa de 2 meses ajuda você a construir estratégias que realmente funcionam no mundo real.
+> 
+> [Descubra a abordagem prática →](Strategic%20Learning%20Architecture.md)
+> 
+> ### Technical Excellence Program
+> *Para equipes de L&D que querem ir além da criação de conteúdo*
+> 
+> Habilidades de criação de conteúdo não são mais suficientes. Este programa de 6 meses desenvolve a capacidade da sua equipe de provocar mudanças reais de comportamento através da implementação eficaz de aprendizagem.
+> 
+> [Explore as capacidades →](Technical%20Excellence%20Program.md)
+> 
+> ### Bridge Builder Program
+> *Para organizações onde equipes técnicas e executivos parecem falar línguas diferentes*
+> 
+> Quando equipes de L&D e executivos se comunicam mal, as iniciativas de aprendizagem fracassam. Este programa de 4 meses cria entendimento que gera resultados.
+> 
+> [Veja como funciona →](Bridge%20Builder%20Program.md)
+
