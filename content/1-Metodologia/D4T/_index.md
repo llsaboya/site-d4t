@@ -1,12 +1,13 @@
 ---
-title: 📖 Design 4 Thinking
+title: Design 4 Thinking
 enableToc: false
 description: Design 4 Thinking - Lefebvre Saboya
 lastmod: 2023-05-27T23:24:45.639Z
-cssclass: dashboard
+cssclasses:
+  - dashboard
 obsidianUIMode: preview
 obsidianEditingMode: live
-image: "notes/images/974shots_so.png"
+image: notes/images/974shots_so.png
 image_x: 0.5
 image_y: 0.14667
 ---

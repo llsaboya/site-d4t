@@ -1,3 +1,3 @@
 ---
-title: 📈 MADE Análise & Diagnóstico
+title: Análise & Diagnóstico
 ---
