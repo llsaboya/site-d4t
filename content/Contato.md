@@ -12,6 +12,7 @@ date: 2024-12-31
 ### Chega de teorias vagas sobre aprendizagem. Vamos discutir implementação que funciona?
 
 Se você:
+
 - Busca mais que relatórios bonitos de LMS
 - Quer ver mudança real de comportamento
 - Precisa provar ROI de aprendizagem
@@ -22,6 +23,7 @@ Podemos ajudar. E sim, vamos compartilhar alguns insights práticos já no prime
 ## Prefere resolver isso hoje?
 
 WhatsApp é nossa forma preferida de primeiro contato porque[^1]:
+
 - Podemos entender seu contexto rapidamente
 - Compartilhamos insights práticos na hora
 - Verificamos o fit entre sua necessidade e nossa abordagem
@@ -36,6 +38,7 @@ Nosso compromisso: Resposta em até 2 horas durante horário comercial.
 ## Prefere email? Sem problema.
 
 Email é ideal para:
+
 - Compartilhar documentos detalhados
 - Incluir múltiplos stakeholders
 - Manter registro formal da comunicação

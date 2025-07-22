@@ -2,24 +2,23 @@
 title: Home
 description: "Domine a Arte de Pensar, Não Apenas de Treinar"
 ---
-## Aprendizagem organizacional não falha por falta de conteúdo. Falha na implementação.
+## Melhoria organizacional não falha por falta de conteúdo. Falha na implementação.
 ### Transformamos conhecimento em resultados práticos, mostrando exatamente como fazer a implementação acontecer.
 
 O *Design*<sup>4</sup>**Thinking** ajuda equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019.
 
-|                                     |                                                                                                                                                                                                                                                              |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Para designers instrucionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento disperso em diferentes fontes. [Começe por aqui](Para-Profissionais)        |
-| **Para empresas**                   | O *Design*<sup>4</sup>**Thinking** cria soluções que integram o desenvolvimento do pensamento crítico com objetivos claros de performance, oferecendo desde turmas customizadas até programas completos. Descubra [o que podemos fazer](Para-Profissionais). |
+|                                  |                                                                                                                                                                                                                                                         |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Para designers instrucionais** | O *Design*<sup>4</sup>**Thinking** permite explorar desde os fundamentos do pensamento crítico até técnicas avançadas de design instrucional, tornando acessível um conhecimento disperso em diferentes fontes. [Começe por aqui](Para-Profissionais)   |
+| **Para empresas**                | O *Design*<sup>4</sup>**Thinking** cria soluções que integram o desenvolvimento do pensamento crítico com objetivos claros de performance, oferecendo desde turmas customizadas até programas completos. Descubra [o que podemos fazer](Para-Empresas). |
 
 Para organizações interessadas em elevar o nível de seus treinamentos, trazemos uma metodologia que vai além do design instrucional tradicional. 
 
 Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resultado real desde 2019.
 
-[Agende uma conversa →](Contato) para discutir seu desafio específico.
+[Agende uma conversa →](Contato) para falarmos sobre seu cenário específico.
 
-
-## A verdade incômoda sobre aprendizagem organizacional
+## A verdade sobre aprendizagem organizacional
 
 >[!warning] Em 5 anos analisando iniciativas de aprendizagem:
 >- 82% das organizações têm conteúdo excelente.
@@ -39,7 +38,7 @@ Ajudando equipes técnicas e executivos a implementar aprendizagem que gera resu
 >
 >O resultado? Uma metodologia que funciona no mundo real.
 
-### Nossa Metodologia
+### A Metodologia
 
 Não vendemos teoria. Não prometemos soluções mágicas. Não escondemos nossos métodos.
 
@@ -79,7 +78,7 @@ E sim, compartilhamos nossos erros também. Porque fingir que implementação é
 >- Nossos erros e aprendizados.
 
 
-Nossa abordagem nasceu da análise de padrões reais. O que descobrimos:
+Essa abordagem nasceu da análise de padrões reais. O que descobrimos:
 
 *   Resistência não se vence com imposição, mas com demonstração prática.
 *   Mudança sustentável exige capacidade de implementação distribuída.
@@ -95,7 +94,7 @@ Como aplicamos:
 
 >[!sucess] Não terceirizamos implementação. Desenvolvemos sua capacidade de implementar.
 
-## Resultados que podemos provar
+## Resultados que podemos controlar
 
 >[!example] Nos últimos 12 meses:
 >- 94% dos projetos implementados alcançaram as metas estabelecidas.
