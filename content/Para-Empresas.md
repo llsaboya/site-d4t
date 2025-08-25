@@ -1,125 +1,94 @@
 ---
 title: Para Empresas
-description: O que oferecemos para o cliente
+description: Aumente o ROI dos seus treinamentos corporativos com nossa metodologia de implementação prática. Agende uma consultoria gratuita hoje!
 draft: false
 ---
-# Transforme Planos de Aprendizagem em Resultados Reais
 
-Sua organização investiu em conteúdo, plataformas e estratégias de aprendizagem. Mesmo assim, os resultados continuam escapando. Você não está sozinho - 76% das organizações lutam não para encontrar conteúdo, mas para implementá-lo de forma eficaz.
+# Aumente o ROI dos Seus Treinamentos com Implementação Garantida  
+## A única metodologia que transforma treinamentos em resultados reais em 3-6 meses.
 
-## Nossa Abordagem: Implementação em Primeiro Lugar
-Não vendemos conteúdo. Não promovemos plataformas. Ajudamos você a implementar iniciativas de aprendizagem que realmente funcionam. Como? Mostrando exatamente o que acontece nos bastidores dos projetos de L&D bem-sucedidos.
+Você gasta milhões em treinamentos, mas os resultados não aparecem. A média gerência resiste, a transferência de aprendizagem falha, e o ROI é um mistério. Desde 2019, o *Design*⁴*Thinking* resolve isso para 47 organizações, entregando:  
 
----
+- **94% de sucesso** em projetos implementados.  
+- **89% de mudanças sustentáveis** após 6 meses.  
+- **Capacidade real** transferida para sua equipe.  
 
-## Escolha Seu Caminho de Implementação
+[Descubra Como Aumentar Seu ROI — Agende uma Consultoria Gratuita →](/Contato)  
+*Vagas limitadas para este mês.*
 
-### Implementation Intelligence Package (Pacote de Inteligência em Implementação)
-*Para organizações cansadas de frameworks teóricos que não sobrevivem ao contato com a realidade*
+## Por Que 76% das Empresas Falham na Implementação?  
+Porque treinamentos ignoram a realidade do dia a dia. Nossa metodologia *Design*⁴*Thinking* resolve isso com frameworks testados, transparência total e foco em resultados mensuráveis.  
 
-Você sabe o que precisa ser feito. Seu desafio é fazer acontecer dentro do contexto único da sua organização. Esta parceria intensiva de 3 meses guia você pela implementação real, passo a passo.
+## Escolha Sua Solução de Implementação  
 
-[Veja exatamente como funciona →](Implementation%20Intelligence%20Package.md)
+### [Implementation Intelligence Package](Implementation%20Intelligence%20Package.md)  
+*Para empresas cansadas de treinamentos que não entregam ROI*  
+Transforme seus treinamentos em resultados reais com nossa metodologia prática de 3 meses. Construímos frameworks personalizados e transferimos capacidade para sua equipe.  
+- **Benefício**: Aumente o ROI em até 90%.  
+- **Ideal para**: Equipes de L&D e executivos focados em resultados.  
 
-### Strategic Learning Architecture (Arquitetura Estratégica de Aprendizagem)
-*Para executivos que querem entender o que realmente impulsiona o [[ROI em T&D]] da aprendizagem*
+### [Strategic Learning Architecture](Strategic%20Learning%20Architecture.md)  
+*Para executivos que querem estratégias que funcionam na prática*  
+Conecte sua visão estratégica à realidade operacional em 2 meses, com modelos práticos e métricas claras.  
+- **Benefício**: Alinhe treinamentos às metas de negócio.  
+- **Ideal para**: Líderes C-level e estrategistas.  
 
-A maioria das estratégias de aprendizagem falha não porque são más estratégias, mas porque ignoram as realidades da implementação. Este programa de 2 meses ajuda você a construir estratégias que realmente funcionam no mundo real.
+### [Technical Excellence Program](Technical%20Excellence%20Program.md)  
+*Para equipes técnicas que querem ir além do conteúdo*  
+Desenvolva habilidades práticas de implementação em 6 meses, aplicando conhecimento em projetos reais.  
+- **Benefício**: Capacidade autônoma para mudanças sustentáveis.  
+- **Ideal para**: Equipes de L&D e especialistas técnicos.  
 
-[Descubra a abordagem prática →](Strategic%20Learning%20Architecture.md)
+### [Bridge Builder Program](Bridge%20Builder%20Program.md)  
+*Para organizações com desalinhamento entre equipes técnicas e executivos*  
+Crie colaboração real em 4 meses, com linguagem compartilhada e métricas comuns.  
+- **Benefício**: Reduza conflitos e acelere resultados.  
+- **Ideal para**: Empresas com barreiras de comunicação.  
 
-### Technical Excellence Program (Programa de Excelência Técnica)
-*Para equipes de L&D que querem ir além da criação de conteúdo*
+[Explore o Implementation Intelligence Package →](Implementation%20Intelligence%20Package.md)  
 
-Habilidades de criação de conteúdo não são mais suficientes. Este programa de 6 meses desenvolve a capacidade da sua equipe de provocar mudanças reais de comportamento através da implementação eficaz de aprendizagem.
+## Por Que Escolher o *Design*⁴*Thinking*?  
+1. **Transparência Total**  
+   - Compartilhamos frameworks, sucessos e até falhas.  
+   - Você vê exatamente como implementamos.  
 
-[Explore as capacidades →](Technical%20Excellence%20Program.md)
+2. **Resultados Mensuráveis**  
+   - 94% de sucesso em projetos.  
+   - 89% de mudanças sustentáveis após 6 meses.  
+   - Métricas claras de ROI e impacto no negócio.  
 
-### Bridge Builder Program (Programa Construtor de Pontes)
-*Para organizações onde equipes técnicas e executivos parecem falar línguas diferentes*
+3. **Capacidade Interna**  
+   - Transferimos habilidades práticas para sua equipe.  
+   - Construímos autonomia para implementações futuras.  
 
-Quando equipes de L&D e executivos se comunicam mal, as iniciativas de aprendizagem fracassam. Este programa de 4 meses cria entendimento que gera resultados.
+## Isto é para Você?  
+Nossa abordagem é ideal se você:  
+- Valoriza resultados reais, não apresentações bonitas.  
+- Quer construir capacidade interna, não dependência.  
+- Está comprometido com mudanças mensuráveis.  
 
-[Veja como funciona →](Bridge%20Builder%20Program.md)
+Não é para você se busca:  
+- Soluções rápidas sem medição.  
+- Teoria sem prática.  
+- Conteúdo genérico sem implementação.  
 
----
+## Comece Sua Jornada de Implementação  
+1. **Agende uma Consultoria Gratuita (30 min)**  
+   Analisamos seus desafios reais, sem slides ou promessas vazias.  
+2. **Receba um Mapa Personalizado**  
+   Baseado no seu contexto, com desafios, cronograma e resultados claros.  
+3. **Implemente com Sucesso**  
+   Comece pelo que importa, meça resultados e ajuste com base na realidade.  
 
-> "A maioria dos consultores vende respostas. Lefebvre nos mostrou as perguntas que deveríamos ter feito desde o início. A transparência foi revigorante - eles nos disseram exatamente o que seria difícil, por que seria difícil e como superar."
-> 
-> — Diretor Técnico, Empresa Global de Manufatura
+[Agende Sua Consultoria Gratuita →](Contato)  
+*Vagas limitadas para este mês.*  
 
----
+## Nossa Garantia  
+Se não mostrarmos progresso mensurável no primeiro mês, você pode cancelar sem obrigações. Nosso sucesso depende do seu.  
 
-## Por Que Esta Abordagem Funciona
+[Saiba Como Medimos o Progresso →](B%20-%20Como%20Medimos%20o%20Progresso.md)  
 
-1. **Mostramos Tudo**
-   - Sem metodologias ocultas
-   - Acesso total aos nossos frameworks
-   - Exemplos reais de fracassos e sucessos
-   - Visão clara do que realmente é necessário
+> "Se você quer apresentações bonitas que não mudam nada, procure outro. Se quer implementação que entrega ROI, vamos conversar."  
+> — Lefebvre Saboya
 
-2. **Medimos o Que Importa**
-   - Taxas de sucesso na implementação
-   - Métricas de mudança de comportamento
-   - Medições de impacto nos negócios
-   - Sistemas de acompanhamento de [[ROI em T&D]]
-
-3. **Construímos Capacidade Real**
-   - Sua equipe aprende fazendo
-   - Ferramentas práticas que você pode usar
-   - Frameworks que você pode adaptar
-   - Habilidades que permanecem
-
----
-
-## Isto é Certo para Você?
-
-Esta abordagem funciona melhor para organizações que:
-- Valorizam transparência mais que soluções rápidas
-- Querem construir capacidade interna
-- Estão dispostas a medir resultados
-- Comprometem-se com mudança real
-
-Não é uma boa escolha se você procura:
-- Soluções pré-empacotadas
-- Correções rápidas sem medição
-- Conteúdo sem implementação
-- Teoria sem prática
-
----
-
-## Inicie Sua Jornada de Implementação
-
-4. Agende uma Chamada de Verificação de Realidade
-   - 30 minutos
-   - Sem slides, sem pitch
-   - Analisamos seus desafios reais
-   - Você decide se nossa abordagem serve
-
-5. Receba um Mapa de Implementação Personalizado
-   - Baseado no seu contexto
-   - Mostra desafios reais
-   - Linha do tempo clara
-   - Resultados específicos
-
-6. Comece a Implementação
-   - Inicie pelo que mais importa
-   - Construa momentum através de resultados
-   - Meça enquanto avança
-   - Ajuste baseado na realidade
-
-[Agende Sua Chamada de Verificação de Realidade →](/schedule)
-
----
-
-## Nossa Garantia de Implementação
-
-Se não pudermos mostrar progresso mensurável no primeiro mês, você pode cancelar qualquer contrato sem mais obrigações. Só temos sucesso quando você tem sucesso.
-
-*Nota: Esta não é uma garantia de devolução de dinheiro - é um compromisso com a transparência sobre o progresso. Você saberá em um mês se nossa abordagem está funcionando.*
-
-[Veja como medimos o progresso →](B%20-%20Como%20Medimos%20o%20Progresso.md)
-
----
-
-*"Se você está procurando alguém para dizer que está tudo bem e entregar uma bela apresentação de estratégia, não somos sua melhor escolha. Mas se você quer finalmente acertar na implementação de aprendizagem, vamos conversar."*
+<img style="display:block; margin-left: auto; margin-right: auto;" src="./banner.svg" alt="Implementação de Treinamentos com ROI Mensurável">
